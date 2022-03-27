@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 411f0b1c-b394-ed42-b3ed-38e135eadaaa
 resourcetype: Document
 title: cox_talk.pdf
 uid: da0618d9-694b-8d02-24f6-b854fbbb3a53

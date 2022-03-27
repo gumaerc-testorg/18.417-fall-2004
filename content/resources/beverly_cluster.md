@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 411f0b1c-b394-ed42-b3ed-38e135eadaaa
 resourcetype: Document
 title: beverly_cluster.pdf
 uid: e2ecc890-fe04-58a6-2156-c9be0bea4189
