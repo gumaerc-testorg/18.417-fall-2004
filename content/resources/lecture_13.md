@@ -6,6 +6,7 @@ file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_13.pdf
 uid: 08cd50dd-8f78-529b-51b9-0101f2617f36
 ---
 These notes from Lecture 13 cover the following topics: pigeonhole principle; BLAST; variations; filtration.
-

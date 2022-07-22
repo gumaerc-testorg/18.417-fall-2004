@@ -7,6 +7,7 @@ file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_12.pdf
 uid: 4bcb2459-df6b-e70d-5b0d-a5e8d4742aa0
 ---
 These notes from Lecture 12 cover the following topics: notation; suffix arrays; construction; pattern lookup; LCP enhancement; structure of a suffix array permutation; burrows wheeler transform; fast counts.
-

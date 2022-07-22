@@ -6,6 +6,7 @@ file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_04.pdf
 uid: f40927a4-48f0-9136-e1fb-7bbdf28fca2a
 ---
 These notes from Lecture 4 cover the following topics: recurrence; formalization; alignments; a DP solution; biological applications and alternate applications.
-

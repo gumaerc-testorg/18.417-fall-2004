@@ -6,6 +6,7 @@ file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: beverly_cluster.pdf
 uid: e2ecc890-fe04-58a6-2156-c9be0bea4189
 ---
 Example of a student's final project presentation courtesy of Robert Edward Beverly. Used with permission.
-

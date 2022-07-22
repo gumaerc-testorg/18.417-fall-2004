@@ -6,6 +6,7 @@ file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cjp_project.pdf
 uid: 21f1d9f6-501f-3390-73f2-552469207d7d
 ---
 Example of a student's final project presentation courtesy of Christopher J. Peikert. Used with permission.
-
