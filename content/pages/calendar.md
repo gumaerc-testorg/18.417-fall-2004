@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The problem sets were handedout in lecture sessions noted in the table
+  below.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 677db9fd-71f2-3c53-1839-abf11cbdc5a9
 ---

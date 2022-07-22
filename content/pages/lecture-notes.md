@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7d35d7d9-97e3-ac34-cd3a-945090b26e21
 ---
@@ -52,7 +56,7 @@ Partial Digest Problem
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Motifs and Median Strings ([PDF]({{< baseurl >}}/resources/lecture_03)) (Courtesy of Jerome Mettetal. Used with permission.)  
+Motifs and Median Strings ({{% resource_link dbf7c6f4-5a94-245c-f13e-602eee1ec80e "PDF" %}}) (Courtesy of Jerome Mettetal. Used with permission.)  
   
 A Review Paper on Regulatory Motifs
 {{< tdclose >}}
@@ -69,7 +73,7 @@ A Review Paper on Regulatory Motifs
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Global Alignment ([PDF]({{< baseurl >}}/resources/lecture_04)) (Courtesy of Russ Cox and Michael Walfish. Used with permission.)
+Global Alignment ({{% resource_link f40927a4-48f0-9136-e1fb-7bbdf28fca2a "PDF" %}}) (Courtesy of Russ Cox and Michael Walfish. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Global Alignment ([PDF]({{< baseurl >}}/resources/lecture_04)) (Courtesy of Russ
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Local Alignment ([PDF]({{< baseurl >}}/resources/lecture_05)) (Courtesy of Anthony W. Scelfo and Athicha Muthitacharoen. Used with permission.)  
+Local Alignment ({{% resource_link 4acde148-88af-7299-6f60-ab92a9a430bf "PDF" %}}) (Courtesy of Anthony W. Scelfo and Athicha Muthitacharoen. Used with permission.)  
   
 [More on Alignment Statistics](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=11139604)
 {{< tdclose >}}
@@ -89,7 +93,7 @@ Local Alignment ([PDF]({{< baseurl >}}/resources/lecture_05)) (Courtesy of Antho
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Spliced Alignment ([PDF]({{< baseurl >}}/resources/lecture_06)) (Courtesy of Lele Yu and Sam Kaufman. Used with permission.)  
+Spliced Alignment ({{% resource_link 5d9b3d4a-5a15-57de-90cb-cc60b2c718f5 "PDF" %}}) (Courtesy of Lele Yu and Sam Kaufman. Used with permission.)  
   
 [A Paper on the Subtle Problem of Aligning Proteins to DNA](http://portal.acm.org/citation.cfm?id=267521.267893)  
   
@@ -102,7 +106,7 @@ Spliced Alignment ([PDF]({{< baseurl >}}/resources/lecture_06)) (Courtesy of Lel
 7
 {{< tdclose >}}
 {{< tdopen >}}
-More Efficient Alignment ([PDF]({{< baseurl >}}/resources/lecture_07)) (Courtesy of Mark Halsey and Robert Edward Beverly. Used with permission.)  
+More Efficient Alignment ({{% resource_link 446cb4bf-40bd-e157-d9dd-83d7f1c6c650 "PDF" %}}) (Courtesy of Mark Halsey and Robert Edward Beverly. Used with permission.)  
   
 A Recent Paper on Sub-quadratic Time Alignment: Crochemore, Maxime, Gad M. Landau, and Michal Ziv-Ukelson. "A Subquadratic Sequence Alignment Algorithm for Unrestricted Scoring Matrices." _SIAM J. COMPUT._ 32, no. 6: 1654-1673.  
   
@@ -132,7 +136,7 @@ A Nice Paper on Getting SBH to Work: Lengauer, Thomas, David Sankoff, Sorin Istr
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Peptide Graphs ([PDF]({{< baseurl >}}/resources/lecture_09)) (Courtesy of Robert Edward Beverly and Christopher J. Peikert. Used with permission.)
+Peptide Graphs ({{% resource_link 9a08e9ac-bee5-9883-0f62-0f889bb998f1 "PDF" %}}) (Courtesy of Robert Edward Beverly and Christopher J. Peikert. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +151,7 @@ Peptide Graphs ([PDF]({{< baseurl >}}/resources/lecture_09)) (Courtesy of Robert
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Exact Pattern Matching ([PDF]({{< baseurl >}}/resources/lecture_10)) (Courtesy of Lele Yu and Mark Halsey. Used with permission.)
+Exact Pattern Matching ({{% resource_link f4800301-e447-50bc-2bd5-d4fb53f3f8de "PDF" %}}) (Courtesy of Lele Yu and Mark Halsey. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +160,7 @@ Exact Pattern Matching ([PDF]({{< baseurl >}}/resources/lecture_10)) (Courtesy o
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Suffix Trees ([PDF]({{< baseurl >}}/resources/lecture_11)) (Courtesy of Athicha Muthitacharoen and Anthony W. Scelfo. Used with permission.)  
+Suffix Trees ({{% resource_link 9217abf6-6a26-cdc3-a539-b8a2f7349e14 "PDF" %}}) (Courtesy of Athicha Muthitacharoen and Anthony W. Scelfo. Used with permission.)  
   
 [Early Application of Suffix Trees](http://nar.oupjournals.org/cgi/content/full/27/11/2369)  
   
@@ -169,7 +173,7 @@ A Review of Suffix Trees ([PDF](http://citeseer.ist.psu.edu/cache/papers/cs/1844
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Suffix Arrays and BWTs ([PDF]({{< baseurl >}}/resources/lecture_12)) (Courtesy of Tushara C. Karunaratna and Peter Wai Kei Lee. Used with permission.)  
+Suffix Arrays and BWTs ({{% resource_link 4bcb2459-df6b-e70d-5b0d-a5e8d4742aa0 "PDF" %}}) (Courtesy of Tushara C. Karunaratna and Peter Wai Kei Lee. Used with permission.)  
   
 [A Nice Paper on CSAs/BWTs](http://www.ncbi.nlm.nih.gov/pubmed/11791236)
 {{< tdclose >}}
@@ -180,7 +184,7 @@ Suffix Arrays and BWTs ([PDF]({{< baseurl >}}/resources/lecture_12)) (Courtesy o
 13
 {{< tdclose >}}
 {{< tdopen >}}
-BLAST ([PDF]({{< baseurl >}}/resources/lecture_13)) (Courtesy of Eitan Reich and Peter Lee. Used with permission.)  
+BLAST ({{% resource_link 08cd50dd-8f78-529b-51b9-0101f2617f36 "PDF" %}}) (Courtesy of Eitan Reich and Peter Lee. Used with permission.)  
   
 [The BLAST Paper](http://www.sciencedirect.com/)  
   
@@ -210,7 +214,7 @@ Clustering (Guest Lecturer)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Trees ([PDF]({{< baseurl >}}/resources/lecture_15)) (Courtesy of Eugenia Lyashenko. Used with permission.)
+Trees ({{% resource_link e6010625-034d-3db4-2335-3fbe0d68e969 "PDF" %}}) (Courtesy of Eugenia Lyashenko. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +263,7 @@ Finding Weak Signals in Microarray Data ([PDF](http://www.nature.com/cgi-taf/Dyn
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Hidden Markov Models I ([PDF]({{< baseurl >}}/resources/lecture_17)) (Courtesy of Han-Pang Chiu and Russ Cox. Used with permission.)  
+Hidden Markov Models I ({{% resource_link b5d252dd-90e6-63c1-6ac0-4d641bbfadd3 "PDF" %}}) (Courtesy of Han-Pang Chiu and Russ Cox. Used with permission.)  
   
 An HMM Paper, focused on Recognizing Folds: Krogh, Anders, Michael Brown, I. Saira Mian, Kimmen Sjölander, and David Haussler. "Hidden Markov Models in Computational Biology: Applications to Protein Modeling." _Journal of Molecular Biology_ 235, no. 5 (Feb 3, 1994): 1501-1531.
 {{< tdclose >}}
@@ -270,7 +274,7 @@ An HMM Paper, focused on Recognizing Folds: Krogh, Anders, Michael Brown, I. Sai
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Hidden Markov Models II ([PDF]({{< baseurl >}}/resources/lecture_18)) (Courtesy of Chris Peikert. Used with permission.)  
+Hidden Markov Models II ({{% resource_link 7d190324-96cd-548e-8c8b-0fa7821c3f58 "PDF" %}}) (Courtesy of Chris Peikert. Used with permission.)  
   
 One of the GENSCAN Papers: Burge, Chris, and Samuel Karlin. "Prediction of Complete Gene Structures in Human Genomic DNA." _J. Mol. Biol._ 268 (1997): 78-94.  
   
@@ -283,7 +287,7 @@ One of the GENSCAN Papers: Burge, Chris, and Samuel Karlin. "Prediction of Compl
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Gibbs Sampling ([PDF]({{< baseurl >}}/resources/lecture_19)) (Courtesy of Tushara C. Karunaratna. Used with permission.)  
+Gibbs Sampling ({{% resource_link 28e493ef-5ee5-e079-3041-3dbca64b3ffd "PDF" %}}) (Courtesy of Tushara C. Karunaratna. Used with permission.)  
   
 [A Seminal Paper on Gibbs Sampling](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8211139&dopt=Abstract)
 {{< tdclose >}}
@@ -294,7 +298,7 @@ Gibbs Sampling ([PDF]({{< baseurl >}}/resources/lecture_19)) (Courtesy of Tushar
 21
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Random Projections ([PDF]({{< baseurl >}}/resources/lecture_20)) (Courtesy of Eugenia Lyashenko. Used with permission.)
+Random Projections ({{% resource_link 656982cb-a13c-06dc-2df6-9d8a9e5d1aad "PDF" %}}) (Courtesy of Eugenia Lyashenko. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
