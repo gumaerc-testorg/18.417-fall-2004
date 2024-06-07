@@ -4,6 +4,7 @@ description: 'These notes from Lecture 5 cover the following topics: gene file f
   homeobox genes; local alignment; affne gap penalties; multiple alignment and progressive
   alignment.'
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/4acde14888af72996f60ab92a9a430bf_lecture_05.pdf
+file_size: 149347
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

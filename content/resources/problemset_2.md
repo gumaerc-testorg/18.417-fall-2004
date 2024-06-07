@@ -5,6 +5,7 @@ description: 'This handout contains notes on a set of problems assigned from the
   to Bioinformatics Algorithms (Computational Molecular Biology), Bradford Books.
   Cambridge, MA: MIT Press, August 1, 2004. ISBN: 0262101068.'
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/1a12bfed6855e7304cd9f0915821d2b8_problemset_2.pdf
+file_size: 28109
 file_type: application/pdf
 learning_resource_types:
 - Assignments
