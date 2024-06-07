@@ -4,6 +4,7 @@ description: 'These notes from Lecture 7 cover the following topics: space-effic
   sequence alignment; block alignment and the four-russians speedup; LCS and the four-russians
   speedup.'
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/446cb4bf40bde157d9dd83d7f1c6c650_lecture_07.pdf
+file_size: 152960
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

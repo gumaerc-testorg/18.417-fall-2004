@@ -4,6 +4,7 @@ description: 'These notes from Lecture 9 cover the following topics: peptides an
   mass spectrometry; mass spectrum and ions; spectrum graphs and identification; protein
   identification via database search.'
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/9a08e9acbee598830f620f889bb998f1_lecture_09.pdf
+file_size: 190875
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
