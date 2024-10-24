@@ -143,11 +143,7 @@ Exact Pattern Matching ({{% resource_link "f4800301-e447-50bc-2bd5-d4fb53f3f8de"
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-
 Suffix Trees ({{% resource_link "9217abf6-6a26-cdc3-a539-b8a2f7349e14" "PDF" %}}) (Courtesy of Athicha Muthitacharoen and Anthony W. Scelfo. Used with permission.)
-
-[Early Application of Suffix Trees](http://nar.oupjournals.org/cgi/content/full/27/11/2369)
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -279,7 +275,7 @@ Random Projections ({{% resource_link "656982cb-a13c-06dc-2df6-9d8a9e5d1aad" "PD
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-MCMC and Bayesian Networks   
+MCMC and Bayesian Networks    
 Another Probabilistic Method to Phase Haplotype Data
 {{< tdclose >}}{{< tdopen >}}
  
