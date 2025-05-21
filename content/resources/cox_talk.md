@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's final project presentation courtesy of Russ Cox.
   Used with permission.
-file: /ol-ocw-studio-app/courses/18-417-introduction-to-computational-molecular-biology-fall-2004/da0618d9694b8d0224f6b854fbbb3a53_cox_talk.pdf
+file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/da0618d9694b8d0224f6b854fbbb3a53_cox_talk.pdf
 file_size: 321977
 file_type: application/pdf
 learning_resource_types:
