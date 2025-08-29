@@ -4,7 +4,7 @@ description: 'These notes from Lecture 6 cover the following topics: the central
   of molecular biology; open reading frames; intron/exon structure; exon chaining;
   similarity based gene searching/structuring; matching known (spliced) mRNA; amino
   acid to DNA; alignment; spliced alignment problem.'
-file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/5d9b3d4a5a1557de90cbcc60b2c718f5_lecture_06.pdf
+file: /ol-ocw-studio-app/courses/18-417-introduction-to-computational-molecular-biology-fall-2004/5d9b3d4a5a1557de90cbcc60b2c718f5_lecture_06.pdf
 file_size: 61334
 file_type: application/pdf
 learning_resource_types:
