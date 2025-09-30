@@ -70,7 +70,7 @@ Global Alignment ({{% resource_link "f40927a4-48f0-9136-e1fb-7bbdf28fca2a" "PDF"
 
 Local Alignment ({{% resource_link "4acde148-88af-7299-6f60-ab92a9a430bf" "PDF" %}}) (Courtesy of Anthony W. Scelfo and Athicha Muthitacharoen. Used with permission.)
 
-[More on Alignment Statistics](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=11139604)
+{{% resource_link "cba2ebd3-ee80-413a-8cf4-091ce6e26600" "More on Alignment Statistics" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -82,9 +82,9 @@ Local Alignment ({{% resource_link "4acde148-88af-7299-6f60-ab92a9a430bf" "PDF" 
 
 Spliced Alignment ({{% resource_link "5d9b3d4a-5a15-57de-90cb-cc60b2c718f5" "PDF" %}}) (Courtesy of Lele Yu and Sam Kaufman. Used with permission.)
 
-[A Paper on the Subtle Problem of Aligning Proteins to DNA](http://portal.acm.org/citation.cfm?id=267521.267893)
+{{% resource_link "26bc1f03-70bd-4918-9f30-486fec3c8e50" "A Paper on the Subtle Problem of Aligning Proteins to DNA" %}}
 
-[Spliced Alignment with SIM4](http://www.genome.org/cgi/content/full/8/9/967)
+{{% resource_link "7bb386b1-1345-4ff6-9be0-609a87c39fd7" "Spliced Alignment with SIM4" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -154,7 +154,7 @@ Suffix Trees ({{% resource_link "9217abf6-6a26-cdc3-a539-b8a2f7349e14" "PDF" %}}
 
 Suffix Arrays and BWTs ({{% resource_link "4bcb2459-df6b-e70d-5b0d-a5e8d4742aa0" "PDF" %}}) (Courtesy of Tushara C. Karunaratna and Peter Wai Kei Lee. Used with permission.)
 
-[A Nice Paper on CSAs/BWTs](http://www.ncbi.nlm.nih.gov/pubmed/11791236)
+{{% resource_link "758717b2-4317-4f27-bd44-2642fb13300c" "A Nice Paper on CSAs/BWTs" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -166,7 +166,7 @@ Suffix Arrays and BWTs ({{% resource_link "4bcb2459-df6b-e70d-5b0d-a5e8d4742aa0"
 
 BLAST ({{% resource_link "08cd50dd-8f78-529b-51b9-0101f2617f36" "PDF" %}}) (Courtesy of Eitan Reich and Peter Lee. Used with permission.)
 
-[The BLAST Paper](http://www.sciencedirect.com/)
+{{% resource_link "9a43bedd-c012-4b86-b9fd-9861a7503b87" "The BLAST Paper" %}}
 
 BLAST Statistics and PAMs: F., Altschul S. "Amino acid substitution matrices from an information theoretic perspective." *J Mol Biol*. 219, no. 3 (1991): 555-65.
 
@@ -197,16 +197,16 @@ Trees ({{% resource_link "e6010625-034d-3db4-2335-3fbe0d68e969" "PDF" %}}) (Cour
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
-[**Neighbor Joining**](https://academic.oup.com/mbe/article/4/4/406/1029664)
+{{% resource_link "9ba88db7-1d59-42ee-b354-f0dde93d9489" "**Neighbor Joining**" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen colspan="2" >}}
 
-[A Nice Review of Phylogenetic Analysis](http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.genet.30.1.371?cookieSet=1)
+{{% resource_link "e1178774-bc2b-4615-bd3b-b8d69079941f" "A Nice Review of Phylogenetic Analysis" %}}
 
 A Very Complicated Paper on Phylogeny: K. Rice, and T. Warnow. "Parsimony is Hard to Beat, Source Lecture Notes." In *Computer Science* 1276 (1997): 124-133. Archive Proceedings of the Third Annual International Conference on Computing and Combinatorics table of contents. ISBN: 354063357X.
 
-[A Review of Coalescent Theory in Biology](http://www.nature.com/cgi-taf/)
+{{% resource_link "ca949e24-7a6c-401e-bb34-9d4e76b25221" "A Review of Coalescent Theory in Biology" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -218,9 +218,9 @@ Application: Microarrays (Guest Lecturer)
 
 The Classic AML/ALL Cancer Classification Paper: Golub, T. R., D. K. Slonim, P. Tamayo, C. Huard, M. Gaasenbeek, J. P. Mesirov, H. Coller, M. L. Loh, J. R. Downing, M. A. Caligiuri, C. D. Bloomfield, and E. S. Lander. "Molecular Classification of Cancer: class Discovery and Class Prediction by Gene Expression Monitoring." *Science* 286 (15 October 1999).
 
-Finding Weak Signals in Microarray Data ([PDF](http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v34/n3/full/ng1180.html&filetype=pdf))
+Finding Weak Signals in Microarray Data ({{% resource_link "3a040af3-b283-4b5b-b576-cac2af8908f6" "PDF" %}})
 
-[A Review Article on Mining Microarray Data](http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v32/n4s/full/ng1033.html)
+{{% resource_link "d27d8eac-2e63-4aa2-9bd9-d5e534a9726e" "A Review Article on Mining Microarray Data" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -248,7 +248,7 @@ Hidden Markov Models II ({{% resource_link "7d190324-96cd-548e-8c8b-0fa7821c3f58
 
 One of the GENSCAN Papers: Burge, Chris, and Samuel Karlin. "Prediction of Complete Gene Structures in Human Genomic DNA." *J. Mol. Biol.* 268 (1997): 78-94.
 
-[An HMM Searching for Coding RNA](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=64605&rendertype=abstract)
+{{% resource_link "9a7b86d3-755a-44d8-8165-3e1508821f3c" "An HMM Searching for Coding RNA" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -260,7 +260,7 @@ One of the GENSCAN Papers: Burge, Chris, and Samuel Karlin. "Prediction of Compl
 
 Gibbs Sampling ({{% resource_link "28e493ef-5ee5-e079-3041-3dbca64b3ffd" "PDF" %}}) (Courtesy of Tushara C. Karunaratna. Used with permission.)
 
-[A Seminal Paper on Gibbs Sampling](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&cmd=Retrieve&db=PubMed&list_uids=8211139&dopt=Abstract)
+{{% resource_link "97126bd8-b09c-4338-a0e9-1e58d3d7ad72" "A Seminal Paper on Gibbs Sampling" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
